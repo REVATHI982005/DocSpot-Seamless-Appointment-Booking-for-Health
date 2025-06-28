@@ -107,14 +107,15 @@ This project is created for academic and learning purposes. All rights reserved 
 **Revathi C**  
 B.Tech Final Year Student  
 Role:- TEAM LEADER.
+
 **Saisindhu G**
 B.Tech Final Year Student  
 Role:-Team member
-**Saisindhu G**
+
+**Roopa S**
 B.Tech Final Year Student  
 Role:-Team member
-B.Tech Final Year Student  
-Role:-Team member
+
 **Saniya kowsar k**
 B.Tech Final Year Student  
 Role:-Team member
