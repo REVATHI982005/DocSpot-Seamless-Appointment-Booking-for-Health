@@ -106,22 +106,22 @@ This project is created for academic and learning purposes. All rights reserved 
 
 **Revathi C**  
 B.Tech Final Year Student  
-Role:- TEAM LEADER. 
+Role:- TEAM LEADER.   
 Mail id:- 224g1a3381@srit.ac.in
 
 **Saisindhu G**  
 B.Tech Final Year Student  
-Role:-Team member 
+Role:-Team member   
 Mail id:- 224g1a3391@srit.ac.in
 
 **Roopa S**  
 B.Tech Final Year Student  
-Role:-Team member 
+Role:-Team member    
 Mail id:- 224g1a3383@srit.ac.in
 
 **Saniya kowsar S**  
 B.Tech Final Year Student  
-Role:-Team member 
+Role:-Team member   
 Mail id:- 224g1a3396@srit.ac.in
 
 
